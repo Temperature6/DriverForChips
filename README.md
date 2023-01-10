@@ -17,6 +17,8 @@ ChipType_[Libraries]_MoudleName_[others...]
 ### 更新日志 (日期降序)
 
 ```
+2023/01/10 -[Add]STM32_HAL_MPU6050
+2023/01/10 -[Add]STM32_Std_LightGroup
 2022/12/04 -[Add]STM32_HAL_AT24CXX
 2022/11/27 -[Add]STC51_DigitalTube
 2022/11/16 -[Add]STM32_HAL_4*4KeyBoard
